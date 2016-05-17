@@ -81,6 +81,7 @@ rocketchat:slashcommands-join
 rocketchat:slashcommands-kick
 rocketchat:slashcommands-leave
 rocketchat:slashcommands-me
+rocketchat:slashcommands-you
 rocketchat:slashcommands-mute
 rocketchat:slashcommands-shrug
 rocketchat:slashcommands-topic
